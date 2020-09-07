@@ -44,13 +44,14 @@ body{ margin:0; padding:0;  background:#EDF5F5;}
 .Area1400 { margin:0 auto; width:1400px;}
 .Area960 { margin:0 auto; width:960px;}
 	@media screen and (max-width:767px){
+		.Area { background: url(bg01.png) no-repeat center top}
 		.Area .go_bt:hover { 
 		  -webkit-transform:none;
 			 -moz-transform:none;
 			  -ms-transform:none;
 			   -o-transform:none;
 				  transform:none;}
-		.Area1220 { width:100%;}
+		.Area1400 { width:100%;}
 		.Area960 { margin:0 auto; width:100%;}
 	}
 
