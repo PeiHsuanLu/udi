@@ -15,7 +15,7 @@ body{ margin:0; padding:0;  background:#EDF5F5;}
 
 
 /*all-page*/
-.WRAPPER { position: relative; display:block; margin: 0 auto; padding: 0 0 80px; width:100%;  min-width:1220px; font-family:"�L�n������","Microsoft JhengHei",Helvetica; overflow:hidden}
+.WRAPPER { position: relative; display:block; margin: 0 auto; padding: 0 0 80px; width:100%;  min-width:1400px; font-family:"�L�n������","Microsoft JhengHei",Helvetica; overflow:hidden}
 .WRAPPER img { border:0px; vertical-align:top;}
 .WRAPPER a { text-decoration:none;}
 		@media screen and (max-width:767px){
