@@ -27,7 +27,7 @@ body{ margin:0; padding:0;  background:#EDF5F5;}
 	
 
 /*all-area*/
-.Area { z-index:1; position: relative; margin:0 auto; padding:0; border-radius:0; text-align:center; background: url(bg01.png) no-repeat center top; background-size:100%;}
+.Area { z-index:1; position: relative; margin:0 auto; padding:0; background: url(bg01.png) no-repeat center top; background-size:100%}
 .Area a { position:relative; display:block;} 
 .Area .go_bt {
   -webkit-transition: all 0.2s ease;
@@ -44,7 +44,7 @@ body{ margin:0; padding:0;  background:#EDF5F5;}
 .Area1400 { margin:0 auto; width:1400px;}
 .Area960 { margin:0 auto; width:960px;}
 	@media screen and (max-width:767px){
-		.Area { background: url(bg01.png) no-repeat center top}
+		.Area { background: url(bg01.png) no-repeat center top; background-size:100%;}
 		.Area .go_bt:hover { 
 		  -webkit-transform:none;
 			 -moz-transform:none;
