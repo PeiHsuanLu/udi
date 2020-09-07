@@ -7,11 +7,11 @@ body{ margin:0; padding:0;  background:#EDF5F5;}
 
 /*setting*/
 .for_pc {}
-/*.for_phone { display:none !important;}
+.for_phone { display:none !important;}
 	@media screen and (max-width:767px){
 		.for_pc { display:none !important;}
 		.for_phone { display: inherit !important;}
-	}*/
+	}
 
 
 /*all-page*/
@@ -42,7 +42,7 @@ body{ margin:0; padding:0;  background:#EDF5F5;}
        -o-transform:translateY(-6px);
           transform:translateY(-6px);}
 .Area1400 { margin:0 auto; width:1400px;}
-/*.Area960 { margin:0 auto; width:960px;}
+.Area960 { margin:0 auto; width:960px;}
 	@media screen and (max-width:767px){
 		.Area .go_bt:hover { 
 		  -webkit-transform:none;
@@ -52,7 +52,7 @@ body{ margin:0; padding:0;  background:#EDF5F5;}
 				  transform:none;}
 		.Area1220 { width:100%;}
 		.Area960 { margin:0 auto; width:100%;}
-	}*/
+	}
 
 		
 
